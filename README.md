@@ -21,7 +21,6 @@ Hey there! I'm a **Computer Engineering (CE) student** who loves building things
 | **Programming** | C / C++, Python, Assembly |
 | **Hardware Design** | Verilog (HDL), SystemVerilog basics |
 | **Development Tools** | Git, Makefile, Vivado, Gowin EDA |
-| **OS & Scripting** | Linux (Ubuntu), Bash, GCC toolchain |
 | **Special Interests** | RISC-V, FPGA, Embedded Systems, Computer Architecture |
 
 ---
